@@ -1,6 +1,9 @@
-# Work Samples from The Pick Off: A-Baseball-Blog
+# Work Samples from The Pick Off: A Baseball Blog
 
-Baseball data projects that have led to blog entries. 
+Baseball data projects that have led to blog entries.
+
+https://lucaskellydataportfolio.weebly.com/the-pick-off
+ 
 
 | **Post Title** | **Topic** | **Link to Post** | **Link to Notebook** |
 | ---------- | ----------- | --------------- | ---------------------------- |
