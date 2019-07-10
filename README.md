@@ -1,4 +1,5 @@
-# Work-Samples-from-The-Pick-Off---A-Baseball-Blog
+# Work Samples from The Pick Off: A-Baseball-Blog
+
 Baseball data projects that have led to blog entries. 
 
 | **Post Title** | **Topic** | **Link to Post** | **Link to Notebook** |
