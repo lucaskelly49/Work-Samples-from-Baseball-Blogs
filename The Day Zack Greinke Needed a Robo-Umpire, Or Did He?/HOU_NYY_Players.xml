@@ -1,0 +1,86 @@
+<!--NOTICE: This file is no longer actively supported. Please use the MLB Stats API (http://statsapi.mlb.com/docs/) as an alternative.  Copyright 2018 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game venue="Yankee Stadium" date="October 17, 2019">
+	<team type="away" id="HOU" name="Houston Astros">
+		<player id="455139" first="Robinson" last="Chirinos" num="28" boxname="Chirinos, R" rl="R" bats="R" position="C" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" bat_order="8" current_position="C" game_position="C"/>
+		<player id="455117" first="Martin" last="Maldonado" num="12" boxname="Maldonado" rl="R" bats="R" position="C" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".250" hr="0" rbi="0"/>
+		<player id="650556" first="Bryan" last="Abreu" num="66" boxname="Abreu, B" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="27.00"/>
+		<player id="663656" first="Kyle" last="Tucker" num="3" boxname="Tucker" rl="R" bats="L" position="RF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".250" hr="0" rbi="0"/>
+		<player id="425844" first="Zack" last="Greinke" num="21" boxname="Greinke" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="1" era="3.48"/>
+		<player id="608324" first="Alex" last="Bregman" num="2" boxname="Bregman" rl="R" bats="R" position="3B" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".182" hr="0" rbi="0" bat_order="4" current_position="3B" game_position="3B"/>
+		<player id="493329" first="Yuli" last="Gurriel" num="10" boxname="Gurriel" rl="R" bats="R" position="1B" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".063" hr="0" rbi="1" bat_order="5" current_position="1B" game_position="1B"/>
+		<player id="444468" first="Hector" last="Rondon" num="30" boxname="Rondón" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="0.00"/>
+		<player id="501789" first="Will" last="Harris" num="36" boxname="Harris" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="502210" first="Josh" last="Reddick" num="22" boxname="Reddick" rl="R" bats="L" position="RF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".286" hr="1" rbi="1" bat_order="9" current_position="RF" game_position="RF"/>
+		<player id="514888" first="Jose" last="Altuve" num="27" boxname="Altuve" rl="R" bats="R" position="2B" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".353" hr="1" rbi="1" bat_order="2" current_position="2B" game_position="2B"/>
+		<player id="532077" first="Roberto" last="Osuna" num="54" boxname="Osuna" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="543807" first="George" last="Springer" num="4" boxname="Springer" rl="R" bats="R" position="RF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".118" hr="2" rbi="4" bat_order="1" current_position="RF" game_position="RF"/>
+		<player id="501925" first="Joe" last="Smith" num="38" boxname="Smith, J" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="3.38"/>
+		<player id="488726" first="Michael" last="Brantley" num="23" boxname="Brantley" rl="L" bats="L" position="LF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".353" hr="0" rbi="1" bat_order="3" current_position="LF" game_position="LF"/>
+		<player id="664353" first="Jose" last="Urquidy" num="65" boxname="Urquidy" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="649557" first="Aledmys" last="Diaz" num="16" boxname="Díaz, A" rl="R" bats="R" position="2B" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" bat_order="9" current_position="PH" game_position="PH"/>
+		<player id="621043" first="Carlos" last="Correa" num="1" boxname="Correa" rl="R" bats="R" position="SS" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".176" hr="2" rbi="5" bat_order="7" current_position="SS" game_position="SS"/>
+		<player id="519151" first="Ryan" last="Pressly" num="55" boxname="Pressly" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="1" losses="0" era="13.50"/>
+		<player id="502748" first="Brad" last="Peacock" num="41" boxname="Peacock" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="545350" first="Jake" last="Marisnick" num="6" boxname="Marisnick" rl="R" bats="R" position="CF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" bat_order="9" current_position="CF" game_position="CF"/>
+		<player id="543037" first="Gerrit" last="Cole" num="45" boxname="Cole, G" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="1" losses="0" era="0.00"/>
+		<player id="434378" first="Justin" last="Verlander" num="35" boxname="Verlander" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="2.70"/>
+		<player id="657624" first="Josh" last="James" num="39" boxname="James" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="1" losses="0" era="6.75"/>
+		<player id="670541" first="Yordan" last="Alvarez" num="44" boxname="Alvarez" rl="R" bats="L" position="OF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".067" hr="0" rbi="0" bat_order="6" current_position="D" game_position="DH"/>
+		<coach position="manager" first="AJ" last="Hinch" id="134460" num="14"/>
+		<coach position="bench_coach" first="Joe" last="Espada" id="440053" num="19"/>
+		<coach position="hitting_coach" first="Alex" last="Cintron" id="400090" num="37"/>
+		<coach position="hitting_coach" first="Troy" last="Snitker" id="607086" num="46"/>
+		<coach position="pitching_coach" first="Brent" last="Strom" id="122884" num="56"/>
+		<coach position="first_base_coach" first="Don" last="Kelly" id="430603" num="15"/>
+		<coach position="third_base_coach" first="Gary" last="Pettis" id="120481" num="8"/>
+		<coach position="bullpen_coach" first="Joshua" last="Miller" id="448312" num="48"/>
+		<coach position="bullpen_catcher" first="Javier" last="Bracamonte" id="612538" num="85"/>
+		<coach position="catching_coach" first="Michael" last="Collins" id="452015" num="84"/>
+	</team>
+	<team type="home" id="NYY" name="New York Yankees">
+		<player id="429665" first="Edwin" last="Encarnacion" num="30" boxname="Encarnación" rl="R" bats="R" position="1B" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".067" hr="0" rbi="0" bat_order="5" current_position="D" game_position="DH"/>
+		<player id="518934" first="DJ" last="LeMahieu" num="26" boxname="LeMahieu" rl="R" bats="R" position="2B" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".412" hr="0" rbi="0" bat_order="1" current_position="1B" game_position="1B"/>
+		<player id="622663" first="Luis" last="Severino" num="40" boxname="Severino, L" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="0" losses="1" era="4.15"/>
+		<player id="544928" first="Tyler" last="Lyons" num="70" boxname="Lyons" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="519222" first="Austin" last="Romine" num="28" boxname="Romine" rl="R" bats="R" position="C" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0"/>
+		<player id="493603" first="Adam" last="Ottavino" num="0" boxname="Ottavino" rl="R" bats="S" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="20.25"/>
+		<player id="592450" first="Aaron" last="Judge" num="99" boxname="Judge" rl="R" bats="R" position="RF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".235" hr="1" rbi="2" bat_order="2" current_position="RF" game_position="RF"/>
+		<player id="642528" first="Jonathan" last="Loaisiga" num="43" boxname="Loaisiga" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="572020" first="James" last="Paxton" num="65" boxname="Paxton" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="3.86"/>
+		<player id="570482" first="Gio" last="Urshela" num="29" boxname="Urshela" rl="R" bats="R" position="3B" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".133" hr="1" rbi="1" bat_order="8" current_position="3B" game_position="3B"/>
+		<player id="543305" first="Aaron" last="Hicks" num="31" boxname="Hicks, A" rl="R" bats="S" position="CF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".167" hr="0" rbi="0" bat_order="3" current_position="CF" game_position="CF"/>
+		<player id="282332" first="CC" last="Sabathia" num="52" boxname="Sabathia" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="502154" first="Zack" last="Britton" num="53" boxname="Britton" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="0.00"/>
+		<player id="547888" first="Masahiro" last="Tanaka" num="19" boxname="Tanaka" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="1" losses="1" era="2.45"/>
+		<player id="457727" first="Cameron" last="Maybin" num="38" boxname="Maybin" rl="R" bats="R" position="LF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".333" hr="0" rbi="0"/>
+		<player id="650402" first="Gleyber" last="Torres" num="25" boxname="Torres" rl="R" bats="R" position="SS" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".294" hr="2" rbi="6" bat_order="4" current_position="2B" game_position="2B"/>
+		<player id="458731" first="Brett" last="Gardner" num="11" boxname="Gardner" rl="L" bats="L" position="CF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".133" hr="0" rbi="1" bat_order="6" current_position="LF" game_position="LF"/>
+		<player id="643338" first="Chad" last="Green" num="57" boxname="Green" rl="R" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="4.91"/>
+		<player id="592454" first="Tommy" last="Kahnle" num="48" boxname="Kahnle" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="519317" first="Giancarlo" last="Stanton" num="27" boxname="Stanton" rl="R" bats="R" position="LF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".500" hr="1" rbi="1"/>
+		<player id="570666" first="Luis" last="Cessa" num="85" boxname="Cessa" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="0.00"/>
+		<player id="596142" first="Gary" last="Sanchez" num="24" boxname="Sánchez, G" rl="R" bats="R" position="C" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".118" hr="1" rbi="2" bat_order="7" current_position="C" game_position="C"/>
+		<player id="457918" first="J.A." last="Happ" num="34" boxname="Happ, J" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="0" losses="1" era="13.50"/>
+		<player id="547973" first="Aroldis" last="Chapman" num="54" boxname="Chapman, A" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="0.00"/>
+		<player id="544369" first="Didi" last="Gregorius" num="18" boxname="Gregorius" rl="R" bats="L" position="SS" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".125" hr="0" rbi="0" bat_order="9" current_position="SS" game_position="SS"/>
+		<coach position="manager" first="Aaron" last="Boone" id="111213" num="17"/>
+		<coach position="bench_coach" first="Josh" last="Bard" id="408036" num="59"/>
+		<coach position="hitting_coach" first="Marcus" last="Thames" id="407801" num="62"/>
+		<coach position="assistant_hitting_coach" first="P.J." last="Pilittere" id="452063" num="63"/>
+		<coach position="pitching_coach" first="Larry" last="Rothschild" id="121495" num="58"/>
+		<coach position="first_base_coach" first="Reggie" last="Willits" id="435065" num="50"/>
+		<coach position="third_base_coach" first="Phil" last="Nevin" id="119732" num="88"/>
+		<coach position="bullpen_coach" first="Mike" last="Harkey" id="115476" num="60"/>
+		<coach position="major_league_coach" first="Carlos" last="Mendoza" id="425825" num="64"/>
+		<coach position="catching_coach" first="Jason" last="Brown" id="440785" num=""/>
+		<coach position="bullpen_catcher" first="Radley" last="Haddad" id="645080" num=""/>
+		<coach position="assistant_coach" first="Brett" last="Weber" id="437906" num=""/>
+	</team>
+	<umpires>
+		<umpire position="home" name="Dan Bellino" id="483564" first="Dan" last="Bellino"/>
+		<umpire position="first" name="Mark Carlson" id="427053" first="Mark" last="Carlson"/>
+		<umpire position="second" name="Marvin Hudson" id="427243" first="Marvin" last="Hudson"/>
+		<umpire position="third" name="Mike Everitt" id="427156" first="Mike" last="Everitt"/>
+		<umpire position="left" name="Cory Blaser" id="484183" first="Cory" last="Blaser"/>
+		<umpire position="right" name="Kerwin Danley" id="427095" first="Kerwin" last="Danley"/>
+	</umpires>
+</game>
