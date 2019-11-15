@@ -1,0 +1,308 @@
+,pitchIdx,inning,frame,ab,abIdx,batter,stand,speed,pitchtype,px,pz,szTop,szBottom,des
+308,308,1,top,1,1,Trea Turner,R,88.6,4-seam fb,0.35,1.95,3.18,1.43,Called Strike
+309,309,1,top,1,2,Trea Turner,R,84.9,slider,-0.15,1.54,2.98,1.39,"In play, out(s)"
+310,310,1,top,2,1,Adam Eaton,L,88.7,4-seam fb,-0.16,2.94,3.03,1.37,Called Strike
+311,311,1,top,2,2,Adam Eaton,L,68.4,curveball,-0.31,1.57,2.98,1.39,Swinging Strike
+312,312,1,top,2,3,Adam Eaton,L,91.0,4-seam fb,-1.35,4.63,2.92,1.36,Ball
+313,313,1,top,2,4,Adam Eaton,L,66.7,curveball,-1.14,2.44,2.92,1.28,Ball
+314,314,1,top,2,5,Adam Eaton,L,87.9,changeup,-0.97,1.93,3.14,1.48,"In play, out(s)"
+315,315,1,top,3,1,Anthony Rendon,R,85.3,slider,0.3,1.48,3.14,1.48,"In play, out(s)"
+316,316,1,bottom,4,1,George Springer,R,96.7,4-seam fb,1.12,1.67,3.64,1.66,Ball
+317,317,1,bottom,4,2,George Springer,R,96.3,4-seam fb,0.2,1.29,3.56,1.58,Ball
+318,318,1,bottom,4,3,George Springer,R,86.9,slider,-0.35,1.95,3.54,1.59,Called Strike
+319,319,1,bottom,4,4,George Springer,R,96.3,4-seam fb,-0.76,2.05,3.51,1.56,Called Strike
+320,320,1,bottom,4,5,George Springer,R,87.2,slider,-1.55,1.97,3.5,1.56,Ball
+321,321,1,bottom,4,6,George Springer,R,96.8,4-seam fb,-0.08,2.17,2.95,1.33,"In play, out(s)"
+322,322,1,bottom,5,1,Jose Altuve,R,88.2,fb-cutter,-0.59,2.17,2.95,1.33,Swinging Strike
+323,323,1,bottom,5,2,Jose Altuve,R,97.3,4-seam fb,-0.5,2.22,3.35,1.56,"In play, out(s)"
+324,324,1,bottom,6,1,Michael Brantley,L,81.1,curveball,-2.77,2.61,3.51,1.51,Ball
+325,325,1,bottom,6,2,Michael Brantley,L,87.8,changeup,-2.04,2.3,3.54,1.57,Ball
+326,326,1,bottom,6,3,Michael Brantley,L,97.0,4-seam fb,-1.2,2.74,3.51,1.54,Ball
+327,327,1,bottom,6,4,Michael Brantley,L,96.7,4-seam fb,-0.54,2.31,3.5,1.63,Called Strike
+328,328,1,bottom,6,5,Michael Brantley,L,97.8,4-seam fb,-1.18,2.35,3.58,1.57,Ball
+329,329,1,bottom,7,1,Alex Bregman,R,86.5,slider,-0.34,2.97,3.22,1.61,Called Strike
+330,330,1,bottom,7,2,Alex Bregman,R,96.0,4-seam fb,-0.16,3.06,3.17,1.51,"In play, out(s)"
+331,331,2,top,8,1,Juan Soto,L,87.9,4-seam fb,-0.95,2.06,3.34,1.5,Ball
+332,332,2,top,8,2,Juan Soto,L,86.5,changeup,0.6,0.77,3.34,1.51,Ball
+333,333,2,top,8,3,Juan Soto,L,72.4,curveball,-1.24,2.76,3.33,1.51,Ball
+334,334,2,top,8,4,Juan Soto,L,88.6,4-seam fb,0.32,1.55,3.35,1.51,Called Strike
+335,335,2,top,8,5,Juan Soto,L,89.3,4-seam fb,-0.08,2.37,3.1,1.38,"In play, no out"
+336,336,2,top,9,1,Howie Kendrick,R,88.8,4-seam fb,0.12,1.2,3.13,1.37,Ball
+337,337,2,top,9,2,Howie Kendrick,R,86.4,changeup,-0.79,2.89,3.4,1.65,"In play, out(s)"
+338,338,2,top,10,1,Asdrubal Cabrera,L,89.7,4-seam fb,-0.34,1.34,3.45,1.67,Ball
+339,339,2,top,10,2,Asdrubal Cabrera,L,90.1,4-seam fb,-0.39,1.07,3.38,1.6,Ball
+340,340,2,top,10,3,Asdrubal Cabrera,L,72.5,curveball,0.2,2.07,3.4,1.65,Foul
+341,341,2,top,10,4,Asdrubal Cabrera,L,86.7,changeup,-0.87,2.91,3.4,1.61,Called Strike
+342,342,2,top,10,5,Asdrubal Cabrera,L,82.6,slider,-0.23,1.33,3.34,1.59,"In play, out(s)"
+343,343,2,bottom,11,1,Yuli Gurriel,R,86.3,slider,-0.8,2.13,3.52,1.6,Ball
+344,344,2,bottom,11,2,Yuli Gurriel,R,97.3,4-seam fb,0.97,1.4,3.42,1.67,Ball
+345,345,2,bottom,11,3,Yuli Gurriel,R,95.7,4-seam fb,0.13,1.78,3.46,1.69,Called Strike
+346,346,2,bottom,11,4,Yuli Gurriel,R,87.1,slider,-0.22,1.75,3.34,1.59,"In play, run(s)"
+347,347,2,bottom,12,1,Yordan Alvarez,L,98.2,4-seam fb,-0.34,3.14,3.49,1.71,Foul
+348,348,2,bottom,12,2,Yordan Alvarez,L,98.1,4-seam fb,0.26,2.78,3.47,1.64,"In play, no out"
+349,349,2,bottom,13,1,Carlos Correa,R,78.5,curveball,0.33,3.11,3.47,1.64,Swinging Strike
+350,350,2,bottom,13,2,Carlos Correa,R,95.6,4-seam fb,-1.25,2.62,3.65,1.72,Ball
+351,351,2,bottom,13,3,Carlos Correa,R,96.1,4-seam fb,0.48,1.72,3.68,1.75,Called Strike
+352,352,2,bottom,13,4,Carlos Correa,R,85.1,changeup,-0.41,1.75,3.47,1.64,Foul
+353,353,2,bottom,13,5,Carlos Correa,R,96.9,4-seam fb,0.44,2.43,3.47,1.64,"In play, no out"
+354,354,2,bottom,14,1,Robinson Chirinos,R,95.1,4-seam fb,-0.76,3.72,3.16,1.48,"In play, out(s)"
+355,355,2,bottom,15,1,Josh Reddick,L,87.8,changeup,0.5,1.16,3.57,1.67,Ball
+356,356,2,bottom,15,2,Josh Reddick,L,97.1,4-seam fb,1.16,2.3,3.43,1.56,"In play, out(s)"
+357,357,2,bottom,16,1,George Springer,R,87.3,slider,0.09,1.03,3.56,1.56,Ball
+358,358,2,bottom,16,2,George Springer,R,97.4,4-seam fb,-0.42,0.54,3.56,1.57,Ball In Dirt
+359,359,2,bottom,16,3,George Springer,R,87.8,slider,-1.24,2.57,3.55,1.63,Ball
+360,360,2,bottom,16,4,George Springer,R,97.3,4-seam fb,-0.26,2.03,3.43,1.63,"In play, out(s)"
+361,361,3,top,17,1,Ryan Zimmerman,R,89.9,4-seam fb,0.17,1.64,3.57,1.69,Called Strike
+362,362,3,top,17,2,Ryan Zimmerman,R,86.6,slider,1.21,0.46,3.52,1.72,Ball
+363,363,3,top,17,3,Ryan Zimmerman,R,90.3,4-seam fb,0.96,2.78,3.37,1.62,Ball
+364,364,3,top,17,4,Ryan Zimmerman,R,74.0,curveball,-0.28,2.01,3.43,1.63,"In play, out(s)"
+365,365,3,top,18,1,Yan Gomes,R,85.0,slider,-0.38,2.23,3.07,1.41,Called Strike
+366,366,3,top,18,2,Yan Gomes,R,90.9,4-seam fb,0.3,2.69,3.11,1.42,Called Strike
+367,367,3,top,18,3,Yan Gomes,R,83.1,slider,0.15,1.77,3.25,1.5,"In play, out(s)"
+368,368,3,top,19,1,Victor Robles,R,89.8,4-seam fb,0.73,2.12,2.95,1.33,"In play, out(s)"
+369,369,3,bottom,20,1,Jose Altuve,R,95.7,4-seam fb,-0.77,2.12,2.98,1.33,Called Strike
+370,370,3,bottom,20,2,Jose Altuve,R,96.4,4-seam fb,-1.48,0.75,2.88,1.33,Ball
+371,371,3,bottom,20,3,Jose Altuve,R,80.5,curveball,-0.8,1.53,2.91,1.31,Called Strike
+372,372,3,bottom,20,4,Jose Altuve,R,87.5,slider,-0.2,0.77,2.95,1.33,Foul
+373,373,3,bottom,20,5,Jose Altuve,R,86.4,slider,0.6,1.48,3.35,1.56,"In play, no out"
+374,374,3,bottom,21,1,Michael Brantley,L,95.7,4-seam fb,-0.76,3.18,3.35,1.56,Foul
+375,375,3,bottom,21,2,Michael Brantley,L,85.6,changeup,-0.69,1.41,3.35,1.56,"In play, out(s)"
+376,376,3,bottom,22,1,Alex Bregman,R,81.2,curveball,1.21,-0.39,3.19,1.53,Ball In Dirt
+377,377,3,bottom,22,2,Alex Bregman,R,95.0,4-seam fb,0.8,1.83,3.35,1.61,Ball
+378,378,3,bottom,22,3,Alex Bregman,R,84.7,slider,-0.45,1.17,3.23,1.62,Ball
+379,379,3,bottom,22,4,Alex Bregman,R,95.0,4-seam fb,0.01,1.86,3.22,1.53,Called Strike
+380,380,3,bottom,22,5,Alex Bregman,R,95.6,4-seam fb,0.44,2.59,3.28,1.56,Called Strike
+381,381,3,bottom,22,6,Alex Bregman,R,87.0,slider,0.85,0.34,3.27,1.53,Ball In Dirt
+382,382,3,bottom,23,1,Yuli Gurriel,R,96.6,4-seam fb,0.82,2.97,3.5,1.6,Ball
+383,383,3,bottom,23,2,Yuli Gurriel,R,94.7,4-seam fb,-0.3,2.43,3.34,1.59,Foul
+384,384,3,bottom,23,3,Yuli Gurriel,R,80.2,curveball,-0.79,0.54,3.32,1.65,Ball In Dirt
+385,385,3,bottom,23,4,Yuli Gurriel,R,95.0,4-seam fb,0.16,1.63,3.49,1.71,"In play, out(s)"
+386,386,3,bottom,24,1,Yordan Alvarez,L,90.6,fb-cutter,0.49,3.18,3.49,1.71,Foul
+387,387,3,bottom,24,2,Yordan Alvarez,L,96.5,4-seam fb,-0.03,2.62,3.49,1.71,Foul
+388,388,3,bottom,24,3,Yordan Alvarez,L,96.3,4-seam fb,0.85,4.32,3.58,1.77,Ball
+389,389,3,bottom,24,4,Yordan Alvarez,L,79.1,curveball,-0.12,1.12,3.58,1.67,Ball
+390,390,3,bottom,24,5,Yordan Alvarez,L,96.1,4-seam fb,0.16,3.78,3.26,1.59,"In play, out(s)"
+391,391,4,top,25,1,Trea Turner,R,82.0,slider,0.68,1.45,3.06,1.32,Called Strike
+392,392,4,top,25,2,Trea Turner,R,87.0,changeup,0.59,1.04,3.26,1.59,Swinging Strike
+393,393,4,top,25,3,Trea Turner,R,85.3,slider,1.48,0.38,3.23,1.59,Ball
+394,394,4,top,25,4,Trea Turner,R,91.7,4-seam fb,0.95,2.05,3.26,1.59,Foul
+395,395,4,top,25,5,Trea Turner,R,70.3,curveball,0.9,1.6,3.26,1.59,"In play, out(s)"
+396,396,4,top,26,1,Adam Eaton,L,72.0,curveball,0.26,1.23,2.92,1.32,Ball
+397,397,4,top,26,2,Adam Eaton,L,88.3,4-seam fb,-0.04,2.12,2.98,1.39,"In play, out(s)"
+398,398,4,top,27,1,Anthony Rendon,R,90.6,4-seam fb,1.07,0.93,3.01,1.43,Ball
+399,399,4,top,27,2,Anthony Rendon,R,88.5,changeup,0.9,0.45,2.96,1.45,Ball
+400,400,4,top,27,3,Anthony Rendon,R,90.6,4-seam fb,0.14,1.14,3.18,1.48,Ball
+401,401,4,top,27,4,Anthony Rendon,R,90.0,4-seam fb,-0.12,2.57,3.03,1.43,Called Strike
+402,402,4,top,27,5,Anthony Rendon,R,84.7,slider,-0.71,1.78,3.14,1.48,Foul
+403,403,4,top,27,6,Anthony Rendon,R,89.1,4-seam fb,-1.06,2.0,3.47,1.64,Swinging Strike
+404,404,4,bottom,28,1,Carlos Correa,R,94.3,4-seam fb,-0.61,3.25,3.47,1.64,Foul
+405,405,4,bottom,28,2,Carlos Correa,R,94.3,4-seam fb,0.06,2.91,3.47,1.64,Foul
+406,406,4,bottom,28,3,Carlos Correa,R,85.5,changeup,-1.18,2.74,3.59,1.69,Ball
+407,407,4,bottom,28,4,Carlos Correa,R,95.7,4-seam fb,-1.63,2.25,3.55,1.68,Ball
+408,408,4,bottom,28,5,Carlos Correa,R,86.1,slider,0.35,1.55,3.47,1.64,Foul
+409,409,4,bottom,28,6,Carlos Correa,R,96.4,4-seam fb,-0.17,3.08,3.16,1.48,"In play, out(s)"
+410,410,4,bottom,29,1,Robinson Chirinos,R,85.5,slider,0.65,1.99,3.29,1.51,Called Strike
+411,411,4,bottom,29,2,Robinson Chirinos,R,85.3,slider,0.55,0.79,3.16,1.48,Swinging Strike
+412,412,4,bottom,29,3,Robinson Chirinos,R,86.0,slider,0.7,0.59,3.31,1.63,Swinging Strike (Blocked)
+413,413,4,bottom,30,1,Josh Reddick,L,85.6,changeup,-1.19,2.05,3.5,1.61,Ball
+414,414,4,bottom,30,2,Josh Reddick,L,94.8,4-seam fb,0.83,4.44,3.45,1.76,Ball
+415,415,4,bottom,30,3,Josh Reddick,L,94.9,4-seam fb,-0.74,2.38,3.45,1.69,Called Strike
+416,416,4,bottom,30,4,Josh Reddick,L,84.1,changeup,0.12,3.11,3.43,1.56,"In play, no out"
+417,417,4,bottom,31,1,George Springer,R,94.9,4-seam fb,-1.19,0.97,3.6,1.63,Ball
+418,418,4,bottom,31,2,George Springer,R,95.8,4-seam fb,1.43,1.87,3.6,1.63,Ball
+419,419,4,bottom,31,3,George Springer,R,95.6,4-seam fb,-1.48,2.83,3.54,1.62,Ball
+420,420,4,bottom,31,4,George Springer,R,94.7,4-seam fb,-0.14,1.47,3.6,1.62,Ball
+421,421,4,bottom,32,1,Jose Altuve,R,84.2,changeup,0.99,0.81,2.88,1.31,Ball
+422,422,4,bottom,32,2,Jose Altuve,R,95.8,4-seam fb,-0.13,1.42,2.95,1.35,Called Strike
+423,423,4,bottom,32,3,Jose Altuve,R,85.0,changeup,0.59,-0.54,2.78,1.25,Ball In Dirt
+424,424,4,bottom,32,4,Jose Altuve,R,85.6,slider,0.38,2.84,3.17,1.34,"In play, out(s)"
+425,425,5,top,33,1,Juan Soto,L,88.6,4-seam fb,-0.66,1.88,3.47,1.53,Called Strike
+426,426,5,top,33,2,Juan Soto,L,65.9,curveball,-0.64,2.59,3.17,1.51,Foul
+427,427,5,top,33,3,Juan Soto,L,89.2,4-seam fb,-0.18,1.09,3.05,1.54,Ball
+428,428,5,top,33,4,Juan Soto,L,87.9,changeup,-0.14,0.96,3.17,1.51,Swinging Strike
+429,429,5,top,34,1,Howie Kendrick,R,89.8,4-seam fb,1.24,1.49,3.1,1.4,Ball
+430,430,5,top,34,2,Howie Kendrick,R,72.1,curveball,0.31,1.38,3.04,1.41,Ball
+431,431,5,top,34,3,Howie Kendrick,R,83.7,slider,-0.36,1.54,3.08,1.4,Called Strike
+432,432,5,top,34,4,Howie Kendrick,R,89.5,4-seam fb,-0.36,2.52,3.1,1.38,Swinging Strike
+433,433,5,top,34,5,Howie Kendrick,R,85.2,slider,1.48,1.07,3.03,1.25,Ball
+434,434,5,top,34,6,Howie Kendrick,R,89.2,4-seam fb,-0.01,1.28,3.03,1.33,Ball
+435,435,5,top,35,1,Asdrubal Cabrera,L,88.2,changeup,-1.39,2.81,3.47,1.59,Ball
+436,436,5,top,35,2,Asdrubal Cabrera,L,86.9,changeup,-0.07,1.31,3.4,1.65,Swinging Strike
+437,437,5,top,35,3,Asdrubal Cabrera,L,90.9,4-seam fb,-1.26,1.91,3.39,1.63,Ball
+438,438,5,top,35,4,Asdrubal Cabrera,L,72.8,curveball,-0.47,2.05,3.4,1.65,"In play, out(s)"
+439,439,5,top,36,1,Ryan Zimmerman,R,85.7,slider,-0.65,2.72,3.44,1.64,Called Strike
+440,440,5,top,36,2,Ryan Zimmerman,R,70.7,curveball,1.0,2.15,3.32,1.55,Called Strike
+441,441,5,top,36,3,Ryan Zimmerman,R,64.0,eephus,0.92,0.45,3.38,1.55,Ball In Dirt
+442,442,5,top,36,4,Ryan Zimmerman,R,89.1,4-seam fb,0.11,3.95,3.43,1.63,"In play, out(s)"
+443,443,5,bottom,37,1,Michael Brantley,L,84.1,changeup,-2.41,2.64,3.47,1.59,Ball
+444,444,5,bottom,37,2,Michael Brantley,L,86.0,changeup,-1.31,3.21,3.51,1.57,Ball
+445,445,5,bottom,37,3,Michael Brantley,L,93.4,4-seam fb,-0.47,3.12,3.35,1.56,"In play, no out"
+446,446,5,bottom,38,1,Alex Bregman,R,93.8,4-seam fb,0.43,2.36,3.24,1.58,Called Strike
+447,447,5,bottom,38,2,Alex Bregman,R,92.7,4-seam fb,-1.17,2.54,3.25,1.57,Foul
+448,448,5,bottom,38,3,Alex Bregman,R,84.2,changeup,-0.84,2.72,3.25,1.57,Foul
+449,449,5,bottom,38,4,Alex Bregman,R,84.7,slider,1.05,0.9,3.27,1.57,Ball
+450,450,5,bottom,38,5,Alex Bregman,R,94.8,4-seam fb,0.15,3.04,3.34,1.59,Swinging Strike
+451,451,5,bottom,39,1,Yuli Gurriel,R,92.3,4-seam fb,1.25,2.5,3.47,1.56,Ball
+452,452,5,bottom,39,2,Yuli Gurriel,R,93.9,4-seam fb,0.37,1.75,3.34,1.59,Swinging Strike
+453,453,5,bottom,39,3,Yuli Gurriel,R,83.1,slider,1.67,0.63,3.34,1.59,Swinging Strike (Blocked)
+454,454,5,bottom,39,4,Yuli Gurriel,R,85.0,changeup,0.06,1.57,3.34,1.59,"In play, out(s)"
+455,455,5,bottom,40,1,Yordan Alvarez,L,89.7,fb-cutter,1.86,2.3,3.57,1.78,Ball
+456,456,5,bottom,40,2,Yordan Alvarez,L,90.3,fb-cutter,1.68,2.79,3.57,1.69,Ball
+457,457,5,bottom,40,3,Yordan Alvarez,L,92.5,4-seam fb,-0.06,4.01,3.67,1.72,Ball
+458,458,5,bottom,40,4,Yordan Alvarez,L,85.4,changeup,0.26,1.69,3.49,1.71,Swinging Strike
+459,459,5,bottom,40,5,Yordan Alvarez,L,93.6,4-seam fb,0.89,3.94,3.56,1.69,Ball
+460,460,5,bottom,41,1,Carlos Correa,R,84.7,changeup,-0.92,1.66,3.55,1.68,Called Strike
+461,461,5,bottom,41,2,Carlos Correa,R,84.1,slider,0.86,1.31,3.47,1.64,Swinging Strike
+462,462,5,bottom,41,3,Carlos Correa,R,83.4,slider,1.71,1.39,3.43,1.6,Ball
+463,463,5,bottom,41,4,Carlos Correa,R,94.1,4-seam fb,-1.73,3.01,3.54,1.64,Ball
+464,464,5,bottom,41,5,Carlos Correa,R,85.3,slider,0.24,2.17,3.47,1.64,"In play, run(s)"
+465,465,5,bottom,42,1,Robinson Chirinos,R,94.9,4-seam fb,-0.67,3.51,3.22,1.47,Ball
+466,466,5,bottom,42,2,Robinson Chirinos,R,82.8,slider,0.5,1.26,3.16,1.48,Swinging Strike
+467,467,5,bottom,42,3,Robinson Chirinos,R,94.5,4-seam fb,0.22,2.61,3.27,1.47,Called Strike
+468,468,5,bottom,42,4,Robinson Chirinos,R,95.3,4-seam fb,0.93,1.7,3.24,1.5,Ball
+469,469,5,bottom,42,5,Robinson Chirinos,R,85.3,changeup,0.02,0.69,3.15,1.45,Swinging Strike (Blocked)
+470,470,6,top,43,1,Yan Gomes,R,89.4,4-seam fb,-0.29,2.44,3.25,1.5,"In play, out(s)"
+471,471,6,top,44,1,Victor Robles,R,89.6,4-seam fb,0.08,1.44,3.17,1.37,Called Strike
+472,472,6,top,44,2,Victor Robles,R,85.7,slider,0.59,1.0,3.24,1.53,Ball
+473,473,6,top,44,3,Victor Robles,R,89.2,4-seam fb,-0.56,1.95,3.28,1.43,Called Strike
+474,474,6,top,44,4,Victor Robles,R,84.4,slider,0.76,1.87,3.26,1.59,"In play, out(s)"
+475,475,6,top,45,1,Trea Turner,R,90.3,4-seam fb,0.52,1.72,3.4,1.66,Called Strike
+476,476,6,top,45,2,Trea Turner,R,87.8,changeup,-0.18,0.95,3.26,1.59,Foul
+477,477,6,top,45,3,Trea Turner,R,88.4,4-seam fb,-0.95,1.86,3.19,1.57,Called Strike
+478,478,6,bottom,46,1,Jake Marisnick,R,93.4,4-seam fb,-1.51,2.3,3.63,1.76,Ball
+479,479,6,bottom,46,2,Jake Marisnick,R,64.8,curveball,-0.32,1.49,3.59,1.75,Ball
+480,480,6,bottom,46,3,Jake Marisnick,R,92.9,2-seam fb,-0.51,2.62,3.55,1.63,Foul
+481,481,6,bottom,46,4,Jake Marisnick,R,93.5,4-seam fb,-1.35,2.88,3.52,1.65,Ball
+482,482,6,bottom,46,5,Jake Marisnick,R,93.3,2-seam fb,-0.32,2.04,3.55,1.63,"In play, no out"
+483,483,6,bottom,47,1,George Springer,R,80.6,slider,0.03,1.63,3.43,1.56,Swinging Strike
+484,484,6,bottom,47,2,George Springer,R,94.7,4-seam fb,0.09,3.02,3.43,1.56,Foul
+485,485,6,bottom,47,3,George Springer,R,83.4,slider,0.2,1.52,3.38,1.54,Ball
+486,486,6,bottom,47,4,George Springer,R,84.4,slider,-0.44,0.7,3.43,1.56,Swinging Strike (Blocked)
+487,487,6,bottom,48,1,Jose Altuve,R,94.3,2-seam fb,0.2,2.06,2.98,1.39,"In play, out(s)"
+488,488,7,top,49,1,Adam Eaton,L,89.4,4-seam fb,-0.86,1.99,2.98,1.41,Called Strike
+489,489,7,top,49,2,Adam Eaton,L,89.2,4-seam fb,-0.84,2.16,2.95,1.28,Called Strike
+490,490,7,top,49,3,Adam Eaton,L,65.9,curveball,-0.22,0.96,2.98,1.39,Foul
+491,491,7,top,49,4,Adam Eaton,L,90.9,4-seam fb,-1.06,2.53,2.95,1.35,Ball
+492,492,7,top,49,5,Adam Eaton,L,86.9,changeup,-1.76,1.35,2.97,1.34,Ball
+493,493,7,top,49,6,Adam Eaton,L,87.5,changeup,-0.91,2.38,3.14,1.48,"In play, out(s)"
+494,494,7,top,50,1,Anthony Rendon,R,91.8,4-seam fb,0.97,1.21,3.15,1.51,Ball
+495,495,7,top,50,2,Anthony Rendon,R,88.5,changeup,0.05,1.78,3.14,1.48,"In play, run(s)"
+496,496,7,top,51,1,Juan Soto,L,89.1,4-seam fb,-1.26,2.41,3.39,1.56,Ball
+497,497,7,top,51,2,Juan Soto,L,71.1,curveball,-1.22,2.54,3.17,1.51,Swinging Strike
+498,498,7,top,51,3,Juan Soto,L,88.3,changeup,-1.7,1.79,3.41,1.6,Ball
+499,499,7,top,51,4,Juan Soto,L,88.0,changeup,0.09,1.63,3.44,1.64,Ball
+500,500,7,top,51,5,Juan Soto,L,72.6,curveball,-1.42,2.25,3.38,1.54,Ball
+501,501,7,top,52,1,Howie Kendrick,R,79.8,curveball,-0.24,1.64,3.1,1.38,Swinging Strike
+502,502,7,top,52,2,Howie Kendrick,R,90.6,fb-cutter,0.58,1.52,3.1,1.38,"In play, run(s)"
+503,503,7,top,53,1,Asdrubal Cabrera,L,89.9,fb-cutter,-0.96,3.43,3.47,1.55,Ball
+504,504,7,top,53,2,Asdrubal Cabrera,L,80.1,curveball,-0.39,0.62,3.47,1.6,Ball
+505,505,7,top,53,3,Asdrubal Cabrera,L,79.2,curveball,-1.12,2.6,3.4,1.65,"In play, no out"
+506,506,7,top,54,1,Ryan Zimmerman,R,88.4,slider,1.09,0.86,3.4,1.57,Ball
+507,507,7,top,54,2,Ryan Zimmerman,R,97.3,4-seam fb,1.44,1.35,3.41,1.66,Ball
+508,508,7,top,54,3,Ryan Zimmerman,R,96.7,4-seam fb,0.9,1.22,3.39,1.64,Ball
+509,509,7,top,54,4,Ryan Zimmerman,R,96.0,4-seam fb,0.37,1.75,3.55,1.7,Called Strike
+510,510,7,top,54,5,Ryan Zimmerman,R,97.3,4-seam fb,1.11,1.83,3.43,1.71,Ball
+511,511,7,top,55,1,Yan Gomes,R,96.3,4-seam fb,-0.03,2.79,3.15,1.45,Foul
+512,512,7,top,55,2,Yan Gomes,R,97.2,4-seam fb,-1.07,4.43,3.14,1.45,Ball
+513,513,7,top,55,3,Yan Gomes,R,97.2,4-seam fb,-0.51,3.4,3.15,1.45,Foul
+514,514,7,top,55,4,Yan Gomes,R,87.1,slider,0.91,0.53,3.11,1.43,Ball In Dirt
+515,515,7,top,55,5,Yan Gomes,R,97.5,4-seam fb,0.89,1.98,3.15,1.45,Foul
+516,516,7,top,55,6,Yan Gomes,R,96.2,4-seam fb,-0.14,3.31,3.15,1.45,"In play, out(s)"
+517,517,7,top,56,1,Victor Robles,R,87.9,slider,1.09,1.81,3.35,1.56,"In play, out(s)"
+518,518,7,bottom,57,1,Michael Brantley,L,91.6,2-seam fb,0.24,1.34,3.51,1.59,Ball
+519,519,7,bottom,57,2,Michael Brantley,L,80.0,slider,-0.88,1.34,3.45,1.53,Ball
+520,520,7,bottom,57,3,Michael Brantley,L,92.1,4-seam fb,0.29,2.13,3.47,1.55,Called Strike
+521,521,7,bottom,57,4,Michael Brantley,L,82.6,slider,-1.38,0.91,3.44,1.55,Ball
+522,522,7,bottom,57,5,Michael Brantley,L,92.4,4-seam fb,-0.16,3.06,3.25,1.57,"In play, out(s)"
+523,523,7,bottom,58,1,Alex Bregman,R,82.5,slider,-0.93,1.69,3.25,1.57,Swinging Strike
+524,524,7,bottom,58,2,Alex Bregman,R,94.2,2-seam fb,0.84,2.6,3.25,1.57,Foul
+525,525,7,bottom,58,3,Alex Bregman,R,85.1,slider,-0.5,1.22,3.25,1.57,Foul
+526,526,7,bottom,58,4,Alex Bregman,R,95.6,2-seam fb,0.96,3.49,3.19,1.53,Ball
+527,527,7,bottom,58,5,Alex Bregman,R,95.1,2-seam fb,1.15,2.43,3.34,1.59,"In play, out(s)"
+528,528,7,bottom,59,1,Yuli Gurriel,R,94.1,2-seam fb,1.46,2.67,3.45,1.57,Ball
+529,529,7,bottom,59,2,Yuli Gurriel,R,93.4,4-seam fb,0.66,1.94,3.41,1.61,Called Strike
+530,530,7,bottom,59,3,Yuli Gurriel,R,84.3,slider,-0.5,1.19,3.41,1.58,Ball
+531,531,7,bottom,59,4,Yuli Gurriel,R,94.6,4-seam fb,0.55,2.62,3.34,1.59,Foul
+532,532,7,bottom,59,5,Yuli Gurriel,R,93.2,4-seam fb,-0.12,2.43,3.49,1.71,"In play, no out"
+533,533,7,bottom,60,1,Yordan Alvarez,L,83.2,slider,-0.56,0.78,3.49,1.71,Swinging Strike (Blocked)
+534,534,7,bottom,60,2,Yordan Alvarez,L,83.4,slider,-0.03,3.17,3.62,1.75,Called Strike
+535,535,7,bottom,60,3,Yordan Alvarez,L,82.6,slider,-1.13,1.83,3.49,1.71,"In play, out(s)"
+536,536,8,top,61,1,Trea Turner,R,96.8,4-seam fb,0.88,2.46,3.37,1.63,Called Strike
+537,537,8,top,61,2,Trea Turner,R,90.3,fb-cutter,0.94,2.52,3.26,1.59,Foul
+538,538,8,top,61,3,Trea Turner,R,88.4,slider,1.67,1.11,3.23,1.67,Ball
+539,539,8,top,61,4,Trea Turner,R,91.9,fb-cutter,-0.83,1.3,3.27,1.59,Ball
+540,540,8,top,61,5,Trea Turner,R,85.6,changeup,-0.25,0.18,3.27,1.58,Ball
+541,541,8,top,61,6,Trea Turner,R,95.3,4-seam fb,0.63,1.75,2.98,1.39,"In play, out(s)"
+542,542,8,top,62,1,Adam Eaton,L,97.4,4-seam fb,-0.77,1.67,3.0,1.39,Called Strike
+543,543,8,top,62,2,Adam Eaton,L,83.9,changeup,0.22,-0.1,3.0,1.41,Ball
+544,544,8,top,62,3,Adam Eaton,L,92.2,fb-cutter,1.19,2.04,2.98,1.39,Swinging Strike
+545,545,8,top,62,4,Adam Eaton,L,97.1,4-seam fb,0.37,4.34,2.98,1.4,Ball
+546,546,8,top,62,5,Adam Eaton,L,83.4,changeup,0.58,0.75,2.95,1.39,Ball
+547,547,8,top,62,6,Adam Eaton,L,91.0,fb-cutter,1.36,2.88,2.92,1.39,Ball
+548,548,8,top,63,1,Anthony Rendon,R,96.2,4-seam fb,-1.08,3.11,3.14,1.48,Foul
+549,549,8,top,63,2,Anthony Rendon,R,90.2,fb-cutter,1.14,3.27,3.17,1.51,Ball
+550,550,8,top,63,3,Anthony Rendon,R,91.6,fb-cutter,-0.24,3.62,3.15,1.48,Ball
+551,551,8,top,63,4,Anthony Rendon,R,86.4,slider,1.15,2.15,3.13,1.41,Called Strike
+552,552,8,top,63,5,Anthony Rendon,R,96.0,4-seam fb,-0.41,1.88,3.17,1.51,"In play, out(s)"
+553,553,8,top,64,1,Juan Soto,L,84.0,changeup,0.11,0.99,3.26,1.55,Ball
+554,554,8,top,64,2,Juan Soto,L,96.8,4-seam fb,0.43,2.43,3.1,1.38,"In play, run(s)"
+555,555,8,top,65,1,Howie Kendrick,R,96.2,4-seam fb,-0.02,3.13,3.1,1.38,Foul
+556,556,8,top,65,2,Howie Kendrick,R,90.7,fb-cutter,-1.15,3.51,3.06,1.38,Ball
+557,557,8,top,65,3,Howie Kendrick,R,86.5,slider,0.19,2.76,3.1,1.38,Foul
+558,558,8,top,65,4,Howie Kendrick,R,96.4,4-seam fb,-0.77,3.54,3.1,1.38,Foul
+559,559,8,top,65,5,Howie Kendrick,R,90.8,fb-cutter,-0.14,2.73,3.1,1.38,"In play, no out"
+560,560,8,top,66,1,Asdrubal Cabrera,L,80.1,curveball,-0.52,4.29,3.45,1.62,Ball
+561,561,8,top,66,2,Asdrubal Cabrera,L,80.6,curveball,0.03,2.15,3.47,1.64,"In play, out(s)"
+562,562,8,bottom,67,1,Carlos Correa,R,82.8,slider,-1.01,1.91,3.53,1.66,Called Strike
+563,563,8,bottom,67,2,Carlos Correa,R,83.1,slider,-0.76,0.62,3.55,1.77,Ball
+564,564,8,bottom,67,3,Carlos Correa,R,94.2,2-seam fb,1.0,2.37,3.47,1.64,Swinging Strike
+565,565,8,bottom,67,4,Carlos Correa,R,84.3,slider,-1.47,1.18,3.52,1.7,Ball
+566,566,8,bottom,67,5,Carlos Correa,R,95.4,2-seam fb,0.72,2.79,3.47,1.64,Foul
+567,567,8,bottom,67,6,Carlos Correa,R,95.5,4-seam fb,-1.2,2.53,3.45,1.72,Called Strike
+568,568,8,bottom,68,1,Robinson Chirinos,R,94.7,2-seam fb,1.8,2.15,3.22,1.5,Ball
+569,569,8,bottom,68,2,Robinson Chirinos,R,81.3,slider,0.65,2.14,3.55,1.63,"In play, out(s)"
+570,570,8,bottom,69,1,Jake Marisnick,R,94.9,2-seam fb,0.84,0.24,3.61,1.67,Ball
+571,571,8,bottom,69,2,Jake Marisnick,R,94.6,2-seam fb,1.45,3.35,3.6,1.69,Ball
+572,572,8,bottom,69,3,Jake Marisnick,R,92.8,2-seam fb,0.02,1.82,3.55,1.71,Called Strike
+573,573,8,bottom,69,4,Jake Marisnick,R,94.3,2-seam fb,0.59,3.39,3.58,1.72,Called Strike
+574,574,8,bottom,69,5,Jake Marisnick,R,83.8,slider,0.23,2.25,3.55,1.63,Foul
+575,575,8,bottom,69,6,Jake Marisnick,R,93.8,2-seam fb,0.25,1.15,3.53,1.68,Ball
+576,576,8,bottom,69,7,Jake Marisnick,R,95.1,2-seam fb,0.35,3.53,3.55,1.63,Foul
+577,577,8,bottom,69,8,Jake Marisnick,R,82.8,slider,-0.63,2.1,3.43,1.63,Swinging Strike
+578,578,9,top,70,1,Ryan Zimmerman,R,86.9,sinker,-0.87,2.69,3.66,1.72,Called Strike
+579,579,9,top,70,2,Ryan Zimmerman,R,86.4,sinker,-0.76,1.84,3.15,1.45,"In play, no out"
+580,580,9,top,71,1,Yan Gomes,R,87.8,sinker,-0.31,2.71,3.06,1.3,Called Strike
+581,581,9,top,71,2,Yan Gomes,R,89.3,4-seam fb,1.45,2.0,3.15,1.34,Ball
+582,582,9,top,71,3,Yan Gomes,R,88.9,4-seam fb,0.04,2.6,3.15,1.45,"In play, out(s)"
+583,583,9,top,72,1,Victor Robles,R,79.1,slider,1.17,2.34,3.25,1.16,Swinging Strike
+584,584,9,top,72,2,Victor Robles,R,78.9,slider,0.87,1.64,3.26,1.59,"In play, no out"
+585,585,9,top,73,1,Trea Turner,R,88.2,sinker,0.77,2.41,3.27,1.6,Called Strike
+586,586,9,top,73,2,Trea Turner,R,88.0,sinker,2.31,1.85,3.33,1.66,Ball
+587,587,9,top,73,3,Trea Turner,R,79.8,slider,1.11,2.24,3.26,1.59,Foul
+588,588,9,top,73,4,Trea Turner,R,80.5,slider,0.18,2.42,3.26,1.59,Foul
+589,589,9,top,73,5,Trea Turner,R,80.1,slider,0.67,2.31,3.26,1.59,Foul
+590,590,9,top,73,6,Trea Turner,R,88.1,sinker,-1.73,1.52,3.27,1.65,Ball
+591,591,9,top,73,7,Trea Turner,R,88.5,sinker,-1.43,1.91,3.22,1.6,Ball
+592,592,9,top,73,8,Trea Turner,R,88.1,sinker,-1.25,1.85,3.28,1.64,Ball
+593,593,9,top,74,1,Adam Eaton,L,80.1,curveball,1.66,2.25,2.94,1.67,Ball
+594,594,9,top,74,2,Adam Eaton,L,93.0,4-seam fb,0.84,2.1,2.98,1.39,"In play, run(s)"
+595,595,9,top,75,1,Anthony Rendon,R,90.9,4-seam fb,0.49,3.69,3.2,1.51,Ball
+596,596,9,top,75,2,Anthony Rendon,R,80.4,slider,-0.79,2.34,3.14,1.48,Foul
+597,597,9,top,75,3,Anthony Rendon,R,81.3,slider,1.26,1.42,3.08,1.49,Ball
+598,598,9,top,75,4,Anthony Rendon,R,93.3,4-seam fb,1.74,2.43,3.13,1.49,Ball
+599,599,9,top,75,5,Anthony Rendon,R,92.8,4-seam fb,0.02,3.55,3.14,1.48,Foul
+600,600,9,top,75,6,Anthony Rendon,R,92.9,4-seam fb,-0.29,3.09,3.14,1.48,"In play, out(s)"
+601,601,9,top,76,1,Juan Soto,L,81.7,curveball,1.35,2.69,3.46,1.78,Ball
+602,602,9,top,76,2,Juan Soto,L,84.6,changeup,-0.35,2.25,3.43,1.56,"In play, out(s)"
+603,603,9,bottom,77,1,George Springer,R,95.8,4-seam fb,-0.19,2.77,3.74,1.73,Called Strike
+604,604,9,bottom,77,2,George Springer,R,94.7,4-seam fb,-0.27,2.48,3.43,1.56,"In play, out(s)"
+605,605,9,bottom,78,1,Jose Altuve,R,96.3,4-seam fb,0.11,2.63,3.28,1.33,Called Strike
+606,606,9,bottom,78,2,Jose Altuve,R,95.5,4-seam fb,0.57,2.57,2.92,1.43,Called Strike
+607,607,9,bottom,78,3,Jose Altuve,R,95.7,4-seam fb,0.23,2.69,3.35,1.56,Swinging Strike
+608,608,9,bottom,79,1,Michael Brantley,L,95.8,4-seam fb,1.34,1.83,3.8,1.78,Ball
+609,609,9,bottom,79,2,Michael Brantley,L,95.8,4-seam fb,-0.62,1.61,3.53,1.63,Called Strike
+610,610,9,bottom,79,3,Michael Brantley,L,86.7,slider,1.27,2.17,3.59,1.63,Ball
+611,611,9,bottom,79,4,Michael Brantley,L,96.0,4-seam fb,0.75,2.05,3.35,1.56,Foul
+612,612,9,bottom,79,5,Michael Brantley,L,96.5,4-seam fb,1.68,1.35,3.53,1.63,Ball
+613,613,9,bottom,79,6,Michael Brantley,L,95.9,4-seam fb,-0.47,1.92,3.35,1.56,Foul
+614,614,9,bottom,79,7,Michael Brantley,L,87.9,slider,0.88,1.03,3.35,1.4,Swinging Strike

@@ -1,0 +1,82 @@
+<!--NOTICE: This file is no longer actively supported. Please use the MLB Stats API (http://statsapi.mlb.com/docs/) as an alternative.  Copyright 2018 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game venue="Minute Maid Park" date="October 22, 2019">
+	<team type="away" id="WSH" name="Washington Nationals">
+		<player id="645302" first="Victor" last="Robles" num="16" boxname="Robles" rl="R" bats="R" position="CF" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".250" hr="0" rbi="0" bat_order="9" current_position="CF" game_position="CF"/>
+		<player id="475582" first="Ryan" last="Zimmerman" num="11" boxname="Zimmerman" rl="R" bats="R" position="1B" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".250" hr="1" rbi="1" bat_order="7" current_position="1B" game_position="1B"/>
+		<player id="543339" first="Daniel" last="Hudson" num="44" boxname="Hudson, D" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="6.75"/>
+		<player id="594809" first="Adam" last="Eaton" num="2" boxname="Eaton" rl="L" bats="L" position="RF" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".500" hr="0" rbi="1" bat_order="2" current_position="RF" game_position="RF"/>
+		<player id="593833" first="Wander" last="Suero" num="51" boxname="Suero" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="663432" first="Tanner" last="Rainey" num="21" boxname="Rainey" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="27.00"/>
+		<player id="605452" first="Joe" last="Ross" num="41" boxname="Ross, J" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="571431" first="Matt" last="Adams" num="15" boxname="Adams, M" rl="R" bats="L" position="1B" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0"/>
+		<player id="543685" first="Anthony" last="Rendon" num="6" boxname="Rendon" rl="R" bats="R" position="3B" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" bat_order="3" current_position="3B" game_position="3B"/>
+		<player id="452678" first="Asdrubal" last="Cabrera" num="13" boxname="Cabrera, A" rl="R" bats="S" position="3B" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".250" hr="0" rbi="0" bat_order="6" current_position="2B" game_position="2B"/>
+		<player id="543228" first="Yan" last="Gomes" num="10" boxname="Gomes" rl="R" bats="R" position="C" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0"/>
+		<player id="448281" first="Sean" last="Doolittle" num="63" boxname="Doolittle" rl="L" bats="L" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="544931" first="Stephen" last="Strasburg" num="37" boxname="Strasburg" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="435559" first="Kurt" last="Suzuki" num="28" boxname="Suzuki" rl="R" bats="R" position="C" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" bat_order="8" current_position="C" game_position="C"/>
+		<player id="453286" first="Max" last="Scherzer" num="31" boxname="Scherzer" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="1" losses="0" era="3.60"/>
+		<player id="571578" first="Patrick" last="Corbin" num="46" boxname="Corbin" rl="L" bats="L" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="407845" first="Fernando" last="Rodney" num="56" boxname="Rodney" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="665742" first="Juan" last="Soto" num="22" boxname="Soto" rl="L" bats="L" position="LF" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".750" hr="1" rbi="3" bat_order="4" current_position="LF" game_position="LF"/>
+		<player id="572821" first="Brian" last="Dozier" num="9" boxname="Dozier, B" rl="R" bats="R" position="2B" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0"/>
+		<player id="467827" first="Gerardo" last="Parra" num="88" boxname="Parra" rl="L" bats="L" position="LF" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0"/>
+		<player id="435062" first="Howie" last="Kendrick" num="47" boxname="Kendrick" rl="R" bats="R" position="2B" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" bat_order="5" current_position="D" game_position="DH"/>
+		<player id="434671" first="Anibal" last="Sanchez" num="19" boxname="Sánchez, An" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="572191" first="Michael A." last="Taylor" num="3" boxname="Taylor, M" rl="R" bats="R" position="CF" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0"/>
+		<player id="607208" first="Trea" last="Turner" num="7" boxname="Turner" rl="R" bats="R" position="SS" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".250" hr="0" rbi="0" bat_order="1" current_position="SS" game_position="SS"/>
+		<player id="457915" first="Javy" last="Guerra" num="48" boxname="Guerra, Ja" rl="R" bats="R" position="P" status="A" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<coach position="manager" first="Dave" last="Martinez" id="118363" num="4"/>
+		<coach position="bench_coach" first="Chip" last="Hale" id="115330" num="12"/>
+		<coach position="hitting_coach" first="Kevin" last="Long" id="438989" num="54"/>
+		<coach position="assistant_hitting_coach" first="Joe" last="Dillon" id="434338" num="25"/>
+		<coach position="pitching_coach" first="Paul" last="Menhart" id="118950" num=""/>
+		<coach position="first_base_coach" first="Tim" last="Bogar" id="111148" num="24"/>
+		<coach position="third_base_coach" first="Bob" last="Henley" id="133726" num="14"/>
+		<coach position="bullpen_coach" first="Henry" last="Blanco" id="111072" num="35"/>
+	</team>
+	<team type="home" id="HOU" name="Houston Astros">
+		<player id="455139" first="Robinson" last="Chirinos" num="28" boxname="Chirinos, R" rl="R" bats="R" position="C" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" bat_order="8" current_position="C" game_position="C"/>
+		<player id="455117" first="Martin" last="Maldonado" num="12" boxname="Maldonado" rl="R" bats="R" position="C" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" bat_order="8" current_position="C" game_position="C"/>
+		<player id="663656" first="Kyle" last="Tucker" num="3" boxname="Tucker" rl="R" bats="L" position="RF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg="1.000" hr="0" rbi="0" bat_order="8" current_position="PH" game_position="PH"/>
+		<player id="425844" first="Zack" last="Greinke" num="21" boxname="Greinke" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="608324" first="Alex" last="Bregman" num="2" boxname="Bregman" rl="R" bats="R" position="3B" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" bat_order="4" current_position="3B" game_position="3B"/>
+		<player id="493329" first="Yuli" last="Gurriel" num="10" boxname="Gurriel" rl="R" bats="R" position="1B" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".400" hr="0" rbi="2" bat_order="5" current_position="1B" game_position="1B"/>
+		<player id="444468" first="Hector" last="Rondon" num="30" boxname="Rondón" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="501789" first="Will" last="Harris" num="36" boxname="Harris" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="606965" first="Chris" last="Devenski" num="47" boxname="Devenski" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="502210" first="Josh" last="Reddick" num="22" boxname="Reddick" rl="R" bats="L" position="RF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" bat_order="9" current_position="RF" game_position="RF"/>
+		<player id="514888" first="Jose" last="Altuve" num="27" boxname="Altuve" rl="R" bats="R" position="2B" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".200" hr="0" rbi="0" bat_order="2" current_position="2B" game_position="2B"/>
+		<player id="532077" first="Roberto" last="Osuna" num="54" boxname="Osuna" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="543807" first="George" last="Springer" num="4" boxname="Springer" rl="R" bats="R" position="RF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".667" hr="1" rbi="2" bat_order="1" current_position="CF" game_position="CF"/>
+		<player id="501925" first="Joe" last="Smith" num="38" boxname="Smith, J" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="0" era="0.00"/>
+		<player id="488726" first="Michael" last="Brantley" num="23" boxname="Brantley" rl="L" bats="L" position="LF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".250" hr="0" rbi="0" bat_order="3" current_position="RF" game_position="RF"/>
+		<player id="664353" first="Jose" last="Urquidy" num="65" boxname="Urquidy" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="649557" first="Aledmys" last="Diaz" num="16" boxname="Díaz, A" rl="R" bats="R" position="2B" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" bat_order="9" current_position="LF" game_position="LF"/>
+		<player id="621043" first="Carlos" last="Correa" num="1" boxname="Correa" rl="R" bats="R" position="SS" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".200" hr="0" rbi="0" bat_order="6" current_position="SS" game_position="SS"/>
+		<player id="519151" first="Ryan" last="Pressly" num="55" boxname="Pressly" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="502748" first="Brad" last="Peacock" num="41" boxname="Peacock" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="545350" first="Jake" last="Marisnick" num="6" boxname="Marisnick" rl="R" bats="R" position="CF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0"/>
+		<player id="543037" first="Gerrit" last="Cole" num="45" boxname="Cole, G" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="1" era="6.43"/>
+		<player id="434378" first="Justin" last="Verlander" num="35" boxname="Verlander" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="657624" first="Josh" last="James" num="39" boxname="James" rl="R" bats="R" position="P" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="-.--"/>
+		<player id="670541" first="Yordan" last="Alvarez" num="44" boxname="Alvarez" rl="R" bats="L" position="OF" status="A" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" avg=".667" hr="0" rbi="0" bat_order="7" current_position="D" game_position="DH"/>
+		<coach position="manager" first="AJ" last="Hinch" id="134460" num="14"/>
+		<coach position="bench_coach" first="Joe" last="Espada" id="440053" num="19"/>
+		<coach position="hitting_coach" first="Alex" last="Cintron" id="400090" num="37"/>
+		<coach position="hitting_coach" first="Troy" last="Snitker" id="607086" num="46"/>
+		<coach position="pitching_coach" first="Brent" last="Strom" id="122884" num="56"/>
+		<coach position="first_base_coach" first="Don" last="Kelly" id="430603" num="15"/>
+		<coach position="third_base_coach" first="Gary" last="Pettis" id="120481" num="8"/>
+		<coach position="bullpen_coach" first="Joshua" last="Miller" id="448312" num="48"/>
+		<coach position="bullpen_catcher" first="Javier" last="Bracamonte" id="612538" num="85"/>
+		<coach position="catching_coach" first="Michael" last="Collins" id="452015" num="84"/>
+	</team>
+	<umpires>
+		<umpire position="home" name="Alan Porter" id="484198" first="Alan" last="Porter"/>
+		<umpire position="first" name="Doug Eddings" id="427139" first="Doug" last="Eddings"/>
+		<umpire position="second" name="Gary Cederstrom" id="427058" first="Gary" last="Cederstrom"/>
+		<umpire position="third" name="James Hoye" id="428442" first="James" last="Hoye"/>
+		<umpire position="left" name="Lance Barksdale" id="427013" first="Lance" last="Barksdale"/>
+		<umpire position="right" name="Sam Holbrook" id="427235" first="Sam" last="Holbrook"/>
+	</umpires>
+</game>
