@@ -1,0 +1,84 @@
+<!--NOTICE: This file is no longer actively supported. Please use the MLB Stats API (http://statsapi.mlb.com/docs/) as an alternative.  Copyright 2018 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game venue="Yankee Stadium" date="August 14, 2019">
+	<team type="away" id="BAL" name="Baltimore Orioles">
+		<player id="542888" first="Shawn" last="Armstrong" num="43" boxname="Armstrong" rl="R" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="0" losses="1" era="5.27"/>
+		<player id="542947" first="Richard" last="Bleier" num="48" boxname="Bleier" rl="L" bats="L" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="3" losses="0" era="5.89"/>
+		<player id="600474" first="Pedro" last="Severino" num="28" boxname="Severino, P" rl="R" bats="R" position="C" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".263" hr="10" rbi="30" bat_order="6" current_position="C" game_position="C"/>
+		<player id="641820" first="Trey" last="Mancini" num="16" boxname="Mancini" rl="R" bats="R" position="RF" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".274" hr="29" rbi="70" bat_order="2" current_position="1B" game_position="1B"/>
+		<player id="448801" first="Chris" last="Davis" num="19" boxname="Davis, C" rl="R" bats="L" position="1B" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".178" hr="9" rbi="32"/>
+		<player id="664045" first="Tom" last="Eshelman" num="32" boxname="Eshelman" rl="R" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" wins="1" losses="2" era="6.09"/>
+		<player id="607054" first="Jace" last="Peterson" num="23" boxname="Peterson" rl="R" bats="L" position="3B" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".236" hr="2" rbi="11" bat_order="7" current_position="LF" game_position="LF"/>
+		<player id="623993" first="Anthony" last="Santander" num="25" boxname="Santander" rl="R" bats="S" position="LF" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".297" hr="11" rbi="35" bat_order="3" current_position="RF" game_position="RF"/>
+		<player id="593679" first="Gabriel" last="Ynoa" num="64" boxname="Ynoa, G" rl="R" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" wins="1" losses="7" era="5.93"/>
+		<player id="605156" first="Aaron" last="Brooks" num="38" boxname="Brooks" rl="R" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" wins="2" losses="6" era="6.35"/>
+		<player id="547004" first="Rio" last="Ruiz" num="14" boxname="Ruiz, R" rl="R" bats="L" position="3B" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".247" hr="7" rbi="33" bat_order="4" current_position="D" game_position="DH"/>
+		<player id="621389" first="Ty" last="Blach" num="53" boxname="Blach" rl="L" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" wins="0" losses="1" era="13.94"/>
+		<player id="592859" first="Stevie" last="Wilkerson" num="12" boxname="Wilkerson, S" rl="R" bats="S" position="CF" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".227" hr="10" rbi="32" bat_order="8" current_position="CF" game_position="CF"/>
+		<player id="600524" first="Renato" last="Nunez" num="39" boxname="Núñez, R" rl="R" bats="R" position="3B" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".246" hr="26" rbi="68" bat_order="4" current_position="D" game_position="DH"/>
+		<player id="621006" first="Richie" last="Martin" num="1" boxname="Martin, Ri" rl="R" bats="R" position="SS" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".189" hr="4" rbi="13" bat_order="9" current_position="SS" game_position="SS"/>
+		<player id="642082" first="Chance" last="Sisco" num="15" boxname="Sisco" rl="R" bats="L" position="C" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".215" hr="6" rbi="18" bat_order="6" current_position="C" game_position="C"/>
+		<player id="593643" first="Hanser" last="Alberto" num="57" boxname="Alberto" rl="R" bats="R" position="2B" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".318" hr="7" rbi="36" bat_order="1" current_position="3B" game_position="3B"/>
+		<player id="643316" first="Paul" last="Fry" num="51" boxname="Fry, P" rl="L" bats="L" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" wins="1" losses="4" era="4.23"/>
+		<player id="571710" first="Mychal" last="Givens" num="60" boxname="Givens" rl="R" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="2" losses="5" era="4.63"/>
+		<player id="592879" first="Asher" last="Wojciechowski" num="29" boxname="Wojciechowski" rl="R" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" wins="2" losses="5" era="4.84"/>
+		<player id="605164" first="Dylan" last="Bundy" num="37" boxname="Bundy" rl="R" bats="S" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="5" losses="13" era="5.25"/>
+		<player id="612434" first="Miguel" last="Castro" num="50" boxname="Castro, M" rl="R" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" wins="1" losses="1" era="4.89"/>
+		<player id="607644" first="John" last="Means" num="67" boxname="Means" rl="L" bats="L" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg="1.000" hr="0" rbi="0" wins="8" losses="8" era="3.76"/>
+		<player id="542340" first="Jonathan" last="Villar" num="2" boxname="Villar" rl="R" bats="S" position="2B" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".269" hr="15" rbi="54" bat_order="5" current_position="2B" game_position="2B"/>
+		<player id="605469" first="Chandler" last="Shepherd" num="62" boxname="Shepherd" rl="R" bats="R" position="P" status="A" team_abbrev="BAL" team_id="110" parent_team_abbrev="BAL" parent_team_id="110" avg=".000" hr="0" rbi="0" wins="0" losses="0" era="2.25"/>
+		<coach position="manager" first="Brandon" last="Hyde" id="492493" num="18"/>
+		<coach position="assistant_hitting_coach" first="Howie" last="Clark" id="408201" num="88"/>
+		<coach position="field_coordinator" first="Tim" last="Cossins" id="492479" num="34"/>
+		<coach position="major_league_coach" first="Jose" last="Hernandez" id="115825" num="27"/>
+		<coach position="hitting_coach" first="Don" last="Long" id="534229" num="30"/>
+		<coach position="pitching_coach" first="Doug" last="Brocail" id="111492" num="26"/>
+		<coach position="first_base_coach" first="Arnie" last="Beyeler" id="492469" num="13"/>
+		<coach position="third_base_coach" first="Jose David" last="Flores" id="443110" num="11"/>
+		<coach position="bullpen_coach" first="John" last="Wasdin" id="123955" num="47"/>
+		<coach position="bullpen_catcher" first="Dustin" last="Hughes" id="458031" num="86"/>
+	</team>
+	<team type="home" id="NYY" name="New York Yankees">
+		<player id="641482" first="Nestor" last="Cortes Jr." num="67" boxname="Cortes Jr." rl="L" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="5" losses="0" era="4.44"/>
+		<player id="518934" first="DJ" last="LeMahieu" num="26" boxname="LeMahieu" rl="R" bats="R" position="2B" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".337" hr="19" rbi="81"/>
+		<player id="645801" first="Mike" last="Ford" num="36" boxname="Ford" rl="R" bats="L" position="1B" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".171" hr="4" rbi="8" bat_order="8" current_position="1B" game_position="1B"/>
+		<player id="593334" first="Domingo" last="German" num="55" boxname="Germán" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="16" losses="2" era="3.96"/>
+		<player id="642731" first="Thairo" last="Estrada" num="90" boxname="Estrada" rl="R" bats="R" position="2B" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".264" hr="3" rbi="11" bat_order="9" current_position="2B" game_position="2B"/>
+		<player id="519222" first="Austin" last="Romine" num="28" boxname="Romine" rl="R" bats="R" position="C" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".271" hr="6" rbi="28"/>
+		<player id="643565" first="Mike" last="Tauchman" num="39" boxname="Tauchman" rl="L" bats="L" position="CF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".295" hr="12" rbi="42" bat_order="7" current_position="LF" game_position="LF"/>
+		<player id="493603" first="Adam" last="Ottavino" num="0" boxname="Ottavino" rl="R" bats="S" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="5" losses="4" era="1.70"/>
+		<player id="664856" first="Chance" last="Adams" num="35" boxname="Adams, C" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="1" losses="0" era="6.50"/>
+		<player id="592450" first="Aaron" last="Judge" num="99" boxname="Judge" rl="R" bats="R" position="RF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".263" hr="12" rbi="32" bat_order="2" current_position="RF" game_position="RF"/>
+		<player id="642528" first="Jonathan" last="Loaisiga" num="43" boxname="Loaisiga" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="1" losses="1" era="4.50"/>
+		<player id="572020" first="James" last="Paxton" num="65" boxname="Paxton" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="1" wins="8" losses="6" era="4.40"/>
+		<player id="570482" first="Gio" last="Urshela" num="29" boxname="Urshela" rl="R" bats="R" position="3B" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".335" hr="18" rbi="64" bat_order="3" current_position="3B" game_position="3B"/>
+		<player id="502154" first="Zack" last="Britton" num="53" boxname="Britton" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="3" losses="1" era="2.17"/>
+		<player id="547888" first="Masahiro" last="Tanaka" num="19" boxname="Tanaka" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="8" losses="6" era="4.64"/>
+		<player id="457727" first="Cameron" last="Maybin" num="38" boxname="Maybin" rl="R" bats="R" position="LF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".312" hr="8" rbi="26"/>
+		<player id="650402" first="Gleyber" last="Torres" num="25" boxname="Torres" rl="R" bats="R" position="SS" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".282" hr="26" rbi="69" bat_order="6" current_position="D" game_position="DH"/>
+		<player id="458731" first="Brett" last="Gardner" num="11" boxname="Gardner" rl="L" bats="L" position="CF" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".256" hr="17" rbi="50" bat_order="1" current_position="CF" game_position="CF"/>
+		<player id="643338" first="Chad" last="Green" num="57" boxname="Green" rl="R" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="2" losses="3" era="4.69"/>
+		<player id="592454" first="Tommy" last="Kahnle" num="48" boxname="Kahnle" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" wins="3" losses="0" era="2.92"/>
+		<player id="570666" first="Luis" last="Cessa" num="85" boxname="Cessa" rl="R" bats="R" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="1" losses="1" era="4.33"/>
+		<player id="596142" first="Gary" last="Sanchez" num="24" boxname="Sánchez, G" rl="R" bats="R" position="C" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".235" hr="26" rbi="63" bat_order="5" current_position="C" game_position="C"/>
+		<player id="457918" first="J.A." last="Happ" num="34" boxname="Happ, J" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="10" losses="7" era="5.40"/>
+		<player id="547973" first="Aroldis" last="Chapman" num="54" boxname="Chapman, A" rl="L" bats="L" position="P" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".000" hr="0" rbi="0" current_position="P" game_position="P" wins="3" losses="2" era="2.45"/>
+		<player id="544369" first="Didi" last="Gregorius" num="18" boxname="Gregorius" rl="R" bats="L" position="SS" status="A" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" avg=".261" hr="9" rbi="36" bat_order="4" current_position="SS" game_position="SS"/>
+		<coach position="manager" first="Aaron" last="Boone" id="111213" num="17"/>
+		<coach position="bench_coach" first="Josh" last="Bard" id="408036" num="59"/>
+		<coach position="hitting_coach" first="Marcus" last="Thames" id="407801" num="62"/>
+		<coach position="assistant_hitting_coach" first="P.J." last="Pilittere" id="452063" num="63"/>
+		<coach position="pitching_coach" first="Larry" last="Rothschild" id="121495" num="58"/>
+		<coach position="first_base_coach" first="Reggie" last="Willits" id="435065" num="50"/>
+		<coach position="third_base_coach" first="Phil" last="Nevin" id="119732" num="88"/>
+		<coach position="bullpen_coach" first="Mike" last="Harkey" id="115476" num="60"/>
+		<coach position="major_league_coach" first="Carlos" last="Mendoza" id="425825" num="64"/>
+		<coach position="catching_coach" first="Jason" last="Brown" id="440785" num=""/>
+		<coach position="bullpen_catcher" first="Radley" last="Haddad" id="645080" num=""/>
+		<coach position="assistant_coach" first="Brett" last="Weber" id="437906" num=""/>
+	</team>
+	<umpires>
+		<umpire position="home" name="Mark Carlson" id="427053" first="Mark" last="Carlson"/>
+		<umpire position="first" name="Ryan Blakney" id="503502" first="Ryan" last="Blakney"/>
+		<umpire position="second" name="Tripp Gibson" id="503586" first="Tripp" last="Gibson"/>
+		<umpire position="third" name="Marvin Hudson" id="427243" first="Marvin" last="Hudson"/>
+	</umpires>
+</game>
